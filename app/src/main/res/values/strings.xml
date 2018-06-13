@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tesk6</string>
+    <string name="lt"><![CDATA[<]]></string>
+    <string name="gt"><![CDATA[>]]></string>
+    <string name="equal">=</string>
+    <string name="true_false">True/false</string>
+    <string name="press_for_number">Press for number</string>
+    <string name="_2nd_number">2nd number</string>
+    <string name="_1st_number">1st number</string>
+    <string name="press_for_numbers">Press for numbers</string>
+</resources>
